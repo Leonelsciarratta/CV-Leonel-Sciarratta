@@ -1,4 +1,4 @@
-<<<<<<< Updated upstream
+
 var colegas = [
     {nombre:"Adalid Alejandra <a href'https://alejandraadalid.githubv>",
 ]{
@@ -16,5 +16,4 @@ var colegas = [
     "Chinque Angelina": "https://angelinachinque9.github.io/curriculum/",
     "Sciarratta Leonel": "https://leonelsciarratta.github.io/Hotel/",
     "Louis Jeune, Esterline ": "https://esty-tech.github.io/Esty-cv/"
->>>>>>> Stashed changes
   }
